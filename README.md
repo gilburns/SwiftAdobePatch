@@ -3,7 +3,7 @@
 # SwiftAdobePatch
 GUI for Adobe RemoteUpdateManager command line tool.
 
-SwiftAdobePatch is an [open source](https://github.com/gilburns/SwiftAdobePatch/blob/main/LICENSE.md) utility for macOS 11+ that creates a graphical interface for Adobe RemoteUpdateManager command line tool. It will popup a dialog notifying users that there are available Adobe updates, allowing users to defer patches for a specific number of days. Once time has passed, the updates become mandatory and then users are prompted to close Adobe apps for patching.
+SwiftAdobePatch is an [open source](https://github.com/gilburns/SwiftAdobePatch/blob/main/LICENSE) utility for macOS 11+ that creates a graphical interface for Adobe RemoteUpdateManager command line tool. It will popup a dialog notifying users that there are available Adobe updates, allowing users to defer patches for a specific number of days. Once time has passed, the updates become mandatory and then users are prompted to close Adobe apps for patching.
 
 ![SwiftAdobePatch](https://github.com/gilburns/SwiftAdobePatch/blob/main/Images/Update%20Notification%20-%20Deferrals%20available.png?raw=true)
 
