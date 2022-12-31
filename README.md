@@ -11,7 +11,7 @@ The latest version can be found on the [Releases](https://github.com/gilburns/Sw
 
 Detailed documentation and information can be found in the [Wiki](https://github.com/gilburns/SwiftAdobePatch/wiki)
 
-SwiftAdobePatch does require and utilize swiftDialog for all the notification dialogs. Please visit this page for more details: [Releases](https://github.com/bartreardon/Dialog/releases)
+SwiftAdobePatch does require and utilize **swiftDialog** for all the notification dialogs. Please visit this page for more details: [Releases](https://github.com/bartreardon/Dialog/releases)
 
 # Giving Feedback
 If there are bugs or ideas, please create an [issue](https://github.com/gilburns/SwiftAdobePatch/issues/new/choose) so your idea can be included.
